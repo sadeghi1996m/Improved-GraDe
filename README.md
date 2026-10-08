@@ -3,8 +3,7 @@
 This repository provides a Python implementation of **improved GraDe
 (ImGraDe)**, a method for blind source separation of Gaussian graph signals
 introduced in [*An Improved GraDe Method for Blind Separation of Graph
-Signals*](https://doi.org/10.1109/TSP.2023.3331264) by Mohammad Sadeghi and
-Massoud Babaie-Zadeh.
+Signals*](https://doi.org/10.1109/TSP.2023.3331264) .
 
 The method uses the spectral representation of graph signals to reduce the
 influence of outlier eigenvalues of the graph adjacency matrix, which
